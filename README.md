@@ -9,8 +9,10 @@
 
    <h2>How are you</h2>
    
-   <i>In my nmae 
+   <i>In my nmae  
+   
    P=PRAMANIK
+
    M=MUHAMMAD</i>
    
    <h3><bold>  H<sub>i</sub>  </bold></h3>
