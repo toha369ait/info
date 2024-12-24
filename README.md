@@ -7,11 +7,13 @@
 
    <h1><i>MY NAME IS P M ABRAR ISHRAQ TOHA</i></h1> 
 
-   <h2>how are you</h2>
+   <h2>How are you</h2>
    
-   <i>My name is Toha</i>
+   <i>In my nmae 
+   P=PRAMANIK
+   M=MUHAMMAD</i>
    
-   <h3><bold>  H<sub>2</sub>O   </bold></h3>
+   <h3><bold>  H<sub>i</sub>  </bold></h3>
     
    <tt> <button>TOHA</button> </tt>  
 
