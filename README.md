@@ -12,9 +12,9 @@
 
    <h2>How are you</h2>
    
-   <i>In my nmae  
+   <i>In my name ,  
    
-   P=PRAMANIK
+   P=PRAMANIK  ,
 
    M=MUHAMMAD</i>
    
