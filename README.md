@@ -1,10 +1,12 @@
 <html>
-<head></head>
+<head>
+   <title>basic</title>
+</head>
 
 
 
 <body>
-
+<body bg color="y"
 <h1>السلام عليكم</h1>
 
 
