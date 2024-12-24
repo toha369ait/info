@@ -1,7 +1,7 @@
 <html>
 <head></head>
    
-<body bg color="pink">
+<body bgcolor="pink">
 
    
    <h1>السلام عليكم</h1>
