@@ -1,13 +1,10 @@
 <html>
-<head>
-   <title>basic</title>
-</head>
+<head></head>
+   
+<body bg color="pink">
 
-
-
-<body>
-<body bg color="y"
-<h1>السلام عليكم</h1>
+   
+   <h1>السلام عليكم</h1>
 
 
    <h2><i>MY NAME IS P M ABRAR ISHRAQ TOHA</i></h2> 
