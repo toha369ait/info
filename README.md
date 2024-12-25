@@ -1,19 +1,18 @@
 <html>
 <head></head>
    
-<body>
+<body  bgcolor="pink">
    
-   <h1>السلام عليكم</h1>
+   <h1 align ="center">السلام عليكم</h1>
 
 
    <h2><i>MY NAME IS P M ABRAR ISHRAQ TOHA</i></h2> 
 <hr>   
 
 
-
 <hr>
 
-   <h2>How are you ?</h2>
+   <h2 style="color:red"> How are you ?</h2>
    
    <i>In my name ,  
    
@@ -25,7 +24,7 @@
     
    <tt> <button>TOHA</button> </tt>  
 <hr>
-<h4>I will fill this web when I have free time.</h4>
+<h4 style = "color:blue" align ="center">I will fill this web when I have free time.</h4>
 <hr>
 
 </body>
