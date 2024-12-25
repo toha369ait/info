@@ -6,7 +6,7 @@
    <h1 align ="center" style ="color:magenta">السلام عليكم</h1>
 
 
-   <h2><i>MY NAME IS P M ABRAR ISHRAQ TOHA</i></h2> 
+   <h2 style ="color:chrome ><i>MY NAME IS P M ABRAR ISHRAQ TOHA</i></h2> 
 <hr>   
 
 
