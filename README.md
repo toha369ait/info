@@ -3,7 +3,7 @@
    
 <body  bgcolor="pink">
    
-   <h1 align ="center">السلام عليكم</h1>
+   <h1 align ="center" style ="color:magenta">السلام عليكم</h1>
 
 
    <h2><i>MY NAME IS P M ABRAR ISHRAQ TOHA</i></h2> 
