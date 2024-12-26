@@ -24,7 +24,7 @@
     
    <tt> <button>TOHA</button> </tt>  
 <hr>
-<h4 style = "color:blue" align ="center">I will fill this web when I have free time.</h4>
+<h4 style = "color:blue" align ="center">I will fill this web when I get free time.</h4>
 <hr>
 
 </body>
