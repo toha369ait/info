@@ -12,9 +12,9 @@
 
 <hr>
 
-   <h2 style="color:red"> Anyone can text me in
-  <a 
-     href = "https://chithi.me/toha_2"> </h2> 
+   Anyone can text me in
+  <a>
+     href="https://chithi.me/toha_2"
   </a> 
       
    <i>In my name ,  
