@@ -3,7 +3,7 @@
    
 <body  bgcolor="pink">
    
-   <h1 align ="center" style ="color:magenta">السلام عليكم</h1>
+   <h1 align ="center" style ="color:magenta">السلام عليكم </h1>
 
 
    <h2> <i> MY NAME IS P M ABRAR ISHRAQ TOHA </i> </h2> 
@@ -15,9 +15,9 @@
   
   <hr>
   
-      <h6><i>In my name </i></h6>.
-   <h5>P=PRAMANIK</h5>
-<h5>M=MUHAMMAD</h5>
+      <h6> <i>In my name </i> </h6>.
+   <h5> P=PRAMANIK </h5>
+<h5> M=MUHAMMAD </h5>
 
  
 <hr>
