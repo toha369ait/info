@@ -23,7 +23,7 @@
   
   <hr>
   
-      <h6> <i>In my name </i> </h6>.
+      <h6> <i>In my name </i> </h6>
    <h5> P=PRAMANIK </h5>
 <h5> M=MUHAMMAD </h5>
 
