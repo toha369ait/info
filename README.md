@@ -8,23 +8,19 @@
 
    <h2> <i> MY NAME IS P M ABRAR ISHRAQ TOHA </i> </h2> 
 <hr>   
-
-
-<hr>
-
-   
+ 
   <a href="https://chithi.me/toha_2">
-  <tt> <button align = "center"> Anyone can text me </button> </tt> 
+  <tt> <button> <h2 align = "center"> Anyone can text me </h2> </button> </tt> 
   </a> 
   
-</hr>
+<hr>
 
   <hr>
       <h6><i>In my name </i></h6>.
    <h5>P=PRAMANIK</h5>
 <h5>M=MUHAMMAD</h5>
 
-   </hr>
+   <hr>
    
    <h3><bold>  H<sub>i</sub>  </bold></h3>
     
