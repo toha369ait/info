@@ -10,7 +10,7 @@
 <hr>   
  
   <a href="https://chithi.me/toha_2">
-  <tt> <button> <h4 align ="center" style ="color:red"> < Anyone can text me </h4> </button> </tt> 
+  <tt><button><h3 align ="center" style ="color:red"><i>< ANYONE CAN TEXT ME </h3></i></button></tt> 
   </a> 
   
   <hr>
