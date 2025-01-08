@@ -12,8 +12,10 @@
 
 <hr>
 
-   <h2 style="color:red"> Anyone can text me in : https://chithi.me/toha_2 </h2>
-   
+   <h2 style="color:red"> Anyone can text me in
+  <a> 
+     href = "https://chithi.me/toha_2 </h2> " </a> 
+      
    <i>In my name ,  
    
    P=PRAMANIK  ,
