@@ -10,11 +10,9 @@
 <hr>   
  
   <a href="https://chithi.me/toha_2">
-  <tt> <button> <h2 align = "center"> Anyone can text me </h2> </button> </tt> 
+  <tt> <button> <h4 align ="center" style ="color:red"> < Anyone can text me </h4> </button> </tt> 
   </a> 
   
-<hr>
-
   <hr>
       <h6><i>In my name </i></h6>.
    <h5>P=PRAMANIK</h5>
