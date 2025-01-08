@@ -14,15 +14,20 @@
 
    
   <a href="https://chithi.me/toha_2">
-     Anyone can text me
+    <tt> Anyone can text me </tt>
   </a> 
-      
-   <i>In my name ,  
-   <h1>
+
+  
+      <h6> 
+
+         
+   <i>In my name </i>,  
+   
    P=PRAMANIK  ,
 
    M=MUHAMMAD</i>
-   </h1>
+   </h6>
+   
    <h3><bold>  H<sub>i</sub>  </bold></h3>
     
    <tt> <button>TOHA</button> </tt>  
