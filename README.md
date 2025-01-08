@@ -12,17 +12,17 @@
 
 <hr>
 
-   Anyone can text me in
-  <a>
-     href="https://chithi.me/toha_2"
+   
+  <a href="https://chithi.me/toha_2">
+     Anyone can text me
   </a> 
       
    <i>In my name ,  
-   
+   <h1>
    P=PRAMANIK  ,
 
    M=MUHAMMAD</i>
-   
+   </h1>
    <h3><bold>  H<sub>i</sub>  </bold></h3>
     
    <tt> <button>TOHA</button> </tt>  
