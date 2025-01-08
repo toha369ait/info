@@ -12,7 +12,7 @@
 
 <hr>
 
-   <h2 style="color:red"> Anyone can text me in : https://chithi.me/toha_2 ?</h2>
+   <h2 style="color:red"> Anyone can text me in : https://chithi.me/toha_2 </h2>
    
    <i>In my name ,  
    
