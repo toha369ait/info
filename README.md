@@ -97,14 +97,9 @@
    
     <a href="tel:+880" class="button button-yellow">NUMBER</a>
 </body>
-</h3>
-
-  
+</h3> 
 </b>
-
-</h3>
-
-  
+</h3>  
   <hr>
   
       <h6> <i>In my name </i> </h6>
