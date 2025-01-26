@@ -36,7 +36,37 @@
 <body>
     <a href="https://chithi.me/toha_2" class="link-button">Anyone can text me</a>
 </body>
-  
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email Button</title>
+    <style>
+        .email-button {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 16px;
+            color: white;
+            background-color: #007BFF;
+            border: none;
+            border-radius: 5px;
+            text-align: center;
+            text-decoration: none;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        .email-button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <a href="mailto:pm-toha6@protonmail.com" class="email-button">Email</a>
+</body>
+
+
+
+
   
 </b>
 
