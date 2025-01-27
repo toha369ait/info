@@ -111,6 +111,19 @@
             margin-bottom: 15px;
             text-transform: uppercase;
         }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 0 10px;
+            }
+            .social-icons a {
+                font-size: 20px;
+            }
+            .button {
+                font-size: 14px;
+                padding: 8px 16px;
+            }
+        }
     </style>
 </head>
 <body>
@@ -160,8 +173,3 @@
 
 </body>
 </html>
-
-
-</body>
-</html>
-
