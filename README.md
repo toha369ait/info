@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -16,11 +15,21 @@
             color: #fff;
             text-align: center;
             padding: 15px 0;
+            position: fixed;
+            width: 100%;
+            z-index: 1000;
+        }
+        header {
+            top: 0;
+        }
+        footer {
+            bottom: 0;
         }
         nav {
             text-align: center;
             background-color: #444;
             padding: 10px 0;
+            margin-top: 60px;
         }
         nav a {
             color: #fff;
@@ -31,7 +40,7 @@
             text-decoration: underline;
         }
         .container {
-            padding: 20px;
+            padding: 80px 20px 60px;
         }
         section {
             background-color: #fff;
@@ -106,7 +115,7 @@
                 padding: 10px 0;
             }
             .container {
-                padding: 10px;
+                padding: 80px 10px 60px;
             }
             .social-icons a {
                 font-size: 20px;
