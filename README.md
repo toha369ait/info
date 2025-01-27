@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -11,14 +10,11 @@
             padding: 0;
             background-color: #f5f5f5;
         }
-        header {
+        header, footer {
             background-color: #333;
             color: #fff;
-            padding: 20px 0;
             text-align: center;
-        }
-        header h1 {
-            margin: 0;
+            padding: 15px 0;
         }
         nav {
             text-align: center;
@@ -44,12 +40,6 @@
             margin-bottom: 20px;
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        footer {
-            background-color: #333;
-            color: #fff;
-            text-align: center;
-            padding: 20px 0;
         }
         .button {
             display: inline-block;
@@ -113,6 +103,9 @@
         }
 
         @media (max-width: 768px) {
+            header, footer {
+                padding: 10px 0;
+            }
             .container {
                 padding: 0 10px;
             }
@@ -122,6 +115,22 @@
             .button {
                 font-size: 14px;
                 padding: 8px 16px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            nav a {
+                display: block;
+                margin: 5px 0;
+            }
+            .social-icons a {
+                font-size: 18px;
+            }
+            .button {
+                font-size: 14px;
+                padding: 8px 16px;
+                width: 100%;
+                margin-bottom: 10px;
             }
         }
     </style>
