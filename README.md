@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -41,6 +42,8 @@
         }
         .container {
             padding: 80px 20px 60px;
+            max-width: 1000px;
+            margin: 0 auto;
         }
         section {
             background-color: #fff;
@@ -61,6 +64,7 @@
             text-decoration: none;
             cursor: pointer;
             transition: background-color 0.3s ease;
+            margin: 5px;
         }
         .button:hover {
             background-color: #0056b3;
