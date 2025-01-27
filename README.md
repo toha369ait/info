@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -30,9 +31,7 @@
             text-decoration: underline;
         }
         .container {
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 0 20px;
+            padding: 20px;
         }
         section {
             background-color: #fff;
@@ -107,7 +106,7 @@
                 padding: 10px 0;
             }
             .container {
-                padding: 0 10px;
+                padding: 10px;
             }
             .social-icons a {
                 font-size: 20px;
