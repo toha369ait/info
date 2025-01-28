@@ -11,7 +11,7 @@
             padding: 0;
             background-color: #f5f5f5;
         }
-        header, footer {
+        header, footer, nav {
             background-color: #333;
             color: #fff;
             text-align: center;
@@ -23,25 +23,26 @@
         header {
             top: 0;
         }
+        nav {
+            top: 60px; /* Adjusted to be below the header */
+        }
         footer {
             bottom: 0;
         }
-        nav {
-            text-align: center;
+        .nav-links {
             background-color: #444;
             padding: 10px 0;
-            margin-top: 60px;
         }
-        nav a {
+        .nav-links a {
             color: #fff;
             text-decoration: none;
             margin: 0 15px;
         }
-        nav a:hover {
+        .nav-links a:hover {
             text-decoration: underline;
         }
         .container {
-            padding: 80px 20px 60px;
+            padding: 140px 20px 60px;
             max-width: 1000px;
             margin: 0 auto;
         }
@@ -118,11 +119,11 @@
         }
 
         @media (max-width: 768px) {
-            header, footer {
+            header, footer, nav {
                 padding: 10px 0;
             }
             .container {
-                padding: 80px 10px 60px;
+                padding: 140px 10px 60px;
             }
             .social-icons a {
                 font-size: 20px;
@@ -134,7 +135,7 @@
         }
 
         @media (max-width: 480px) {
-            nav a {
+            .nav-links a {
                 display: block;
                 margin: 5px 0;
             }
@@ -157,7 +158,7 @@
     <p>T | T | T</p>
 </header>
 
-<nav>
+<nav class="nav-links">
     <a href="#about">About</a>
     <a href="#contact">Contact</a>
 </nav>
