@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -11,7 +10,7 @@
             padding: 0;
             background-color: #f5f5f5;
         }
-        header, footer, nav {
+        header, footer {
             background-color: #333;
             color: #fff;
             text-align: center;
@@ -23,26 +22,25 @@
         header {
             top: 0;
         }
-        nav {
-            top: 60px; /* Adjusted to be below the header */
-        }
         footer {
             bottom: 0;
         }
-        .nav-links {
+        nav {
+            text-align: center;
             background-color: #444;
             padding: 10px 0;
+            margin-top: 60px;
         }
-        .nav-links a {
+        nav a {
             color: #fff;
             text-decoration: none;
             margin: 0 15px;
         }
-        .nav-links a:hover {
+        nav a:hover {
             text-decoration: underline;
         }
         .container {
-            padding: 140px 20px 60px;
+            padding: 80px 20px 60px;
             max-width: 1000px;
             margin: 0 auto;
         }
@@ -119,11 +117,11 @@
         }
 
         @media (max-width: 768px) {
-            header, footer, nav {
+            header, footer {
                 padding: 10px 0;
             }
             .container {
-                padding: 140px 10px 60px;
+                padding: 80px 10px 60px;
             }
             .social-icons a {
                 font-size: 20px;
@@ -135,7 +133,7 @@
         }
 
         @media (max-width: 480px) {
-            .nav-links a {
+            nav a {
                 display: block;
                 margin: 5px 0;
             }
@@ -158,10 +156,7 @@
     <p>T | T | T</p>
 </header>
 
-<nav class="nav-links">
-    <a href="#about">About</a>
-    <a href="#contact">Contact</a>
-</nav>
+
 
 <div class="container">
 
@@ -178,18 +173,21 @@
         <a href="https://eeejshshsh.jsbb.com" class="button">Anyone Can Text Me</a>
     </section>
 
+   
     <div class="social-icons">
         <h3 class="follow-me">Follow Me</h3>
-        <a href="https://twitter.com/gshhsb09" target="_blank" title="Twitter" class="social-icon-twitter">Twitter</a>
-        <a href="https://hdhshshsh.hshsg.uicom" target="_blank" title="Facebook" class="social-icon-facebook">Facebook</a>
-        <a href="https://instagram.com/yourusername" target="_blank" title="Instagram" class="social-icon-instagram">Instagram</a>
-        <a href="https://reddit.com/user/yourusername" target="_blank" title="Reddit" class="social-icon-reddit">Reddit</a>
-        <a href="https://threads.net/yourusername" target="_blank" title="Threads" class="social-icon-threads">Threads</a>
-        <a href="https://tiktok.com/@yourusername" target="_blank" title="TikTok" class="social-icon-tiktok">TikTok</a>
-        <a href="https://bsky.app/profile/yourusername" target="_blank" title="Bluesky" class="social-icon-bluesky">Bluesky</a>
-        <a href="https://quora.com/profile/yourusername" target="_blank" title="Quora" class="social-icon-quora">Quora</a>
-        <a href="https://www.linkedin.com/in/yourusername" target="_blank" title="LinkedIn" class="social-icon-linkedin">LinkedIn</a>
+        <a href="https://twitter.com/pm_toha06ait" target="_blank" title="Twitter" class="social-icon-twitter">Twitter</a>
+        <a href="https://www.facebook.com/pmabrarishraqtoha6?mibextid=ZbWKwL" target="_blank" title="Facebook" class="social-icon-facebook">Facebook</a>
+        <a href="https://instagram.com/pm_toha06ait" target="_blank" title="Instagram" class="social-icon-instagram">Instagram</a>
+        <a href="https://reddit.com/user/pm-toha06ait" target="_blank" title="Reddit" class="social-icon-reddit">Reddit</a>
+        <a href="https://threads.net/pm_toha06ait" target="_blank" title="Threads" class="social-icon-threads">Threads</a>
+        <a href="https://tiktok.com/@pm_toha08ait" target="_blank" title="TikTok" class="social-icon-tiktok">TikTok</a>
+        <a href="https://bsky.app/profile/pm-toha06ait.bsky.social" target="_blank" title="Bluesky" class="social-icon-bluesky">Bluesky</a>
+        <a href="https://quora.com/profile/P M Abrar Ishraq Toha" target="_blank" title="Quora" class="social-icon-quora">Quora</a>
+  <h2><a href="https://www.linkedin.com/in/pm-toha06" target="_blank" title="LinkedIn" class="social-icon-linkedin">LinkedIn</a> </h2>
     </div>
+
+
 
 </div>
 
