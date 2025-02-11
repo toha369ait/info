@@ -171,10 +171,10 @@
 
     <section id="contact">
         <h2>Contact</h2>
-        <p>If you'd like to get in touch, feel free to send me an email or call me:</p>
-        <a href="mailto:pm-toha6@protonmail.com" class="button">Email Me</a>
+        <p>If you'd like to get in touch, feel free to send me an email or call:</p>
+        <a href="mailto:pm-toha6@protonmail.com" class="button">Email</a>
         <a href="tel:+8801" class="button">Call Me</a>
-        <a href="https://eeejshshsh.jsbb.com" class="button">Anyone Can Text Me</a>
+        <a href="https://chithi.me/toha_2" class="button">Anyone Can Text Me</a>
     </section>
 
     <div class="social-icons">
