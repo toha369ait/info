@@ -166,7 +166,7 @@
 
     <section id="about">
         <h2>About Me</h2>
-        <p>Hello! I'm P M ABRAR ISHRAQ TOHA. I love learning new technologies and improving my skills.</p>
+        <p>Hello! I'm PRAMANIK MUHAMMAD ABRAR ISHRAQ TOHA.I love learning new technologies and improving my skills.</p>
     </section>
 
     <section id="contact">
