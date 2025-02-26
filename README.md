@@ -173,7 +173,7 @@
         <h2>Contact</h2>
         <p>If you'd like to get in touch, feel free to send me an email or call:</p>
         <a href="mailto:pm-toha6@protonmail.com" class="button">Email</a>
-        <a href="tel:+8801XXXXXXXXX" class="button">Call</a>
+        <a href="tel:+8801" class="button">Call</a>
         <a href="https://chithi.me/toha_2" class="button">Anyone Can Text Me</a>
     </section>
 
@@ -181,9 +181,9 @@
         <h3 class="follow-me">Follow Me</h3>
         <a href="https://twitter.com/pm_toha06ait" target="_blank" title="Twitter" class="social-icon-twitter">Twitter</a>
         <a href="https://www.facebook.com/pmabrarishraqtoha6?mibextid=ZbWKwL" target="_blank" title="Facebook" class="social-icon-facebook">Facebook</a>
-        <a href="https://instagram.com/pm_toha06ait" target="_blank" title="Instagram" class="social-icon-instagram">Instagram</a>
+        <a href="https://instagram.com/pm_toha" target="_blank" title="Instagram" class="social-icon-instagram">Instagram</a>
         <a href="https://reddit.com/user/pm-toha06ait" target="_blank" title="Reddit" class="social-icon-reddit">Reddit</a>
-        <a href="https://threads.net/pm_toha06ait" target="_blank" title="Threads" class="social-icon-threads">Threads</a>
+        <a href="https://threads.net/pm_toha" target="_blank" title="Threads" class="social-icon-threads">Threads</a>
         <a href="https://tiktok.com/@pm_toha08ait" target="_blank" title="TikTok" class="social-icon-tiktok">TikTok</a>
         <a href="https://bsky.app/profile/pm-toha06ait.bsky.social" target="_blank" title="Bluesky" class="social-icon-bluesky">Bluesky</a>
         <a href="https://quora.com/profile/P M Abrar Ishraq Toha" target="_blank" title="Quora" class="social-icon-quora">Quora</a>
