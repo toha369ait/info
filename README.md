@@ -179,7 +179,7 @@
 
     <div class="social-icons">
         <h3 class="follow-me">Follow Me</h3>
-        <a href="https://twitter.com/pm_toha06ait" target="_blank" title="Twitter" class="social-icon-twitter">Twitter</a>
+        <a href="https://twitter.com/AbrarIshraqToha" target="_blank" title="Twitter" class="social-icon-twitter">Twitter</a>
         <a href="https://www.facebook.com/pmabrarishraqtoha6?mibextid=ZbWKwL" target="_blank" title="Facebook" class="social-icon-facebook">Facebook</a>
         <a href="https://instagram.com/pm_toha" target="_blank" title="Instagram" class="social-icon-instagram">Instagram</a>
         <a href="https://reddit.com/user/pm-toha06ait" target="_blank" title="Reddit" class="social-icon-reddit">Reddit</a>
