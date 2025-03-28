@@ -166,7 +166,7 @@
 
     <section id="about">
         <h2>About Me</h2>
-        <p>Hello! I'm PRAMANIK MUHAMMAD ABRAR ISHRAQ TOHA.I love learning new technologies and improving my skills.</p>
+        <p>Hello! I'm PRAMANIK MUHAMMAD ABRAR ISHRAQ TOHA. I love learning new technologies and improving my skills.</p>
     </section>
 
     <section id="contact">
@@ -197,7 +197,7 @@
 </div>
 
 <footer>
-    <p>&copy; 2023 P M Abrar Ishraq Toha. All rights reserved.</p>
+    <p>&copy; 2023 P M ABRAR ISHRAQ TOHA. All rights reserved.2025</p>
 </footer>
 
 </body>
