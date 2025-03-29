@@ -197,7 +197,7 @@
 </div>
 
 <footer>
-    <p>&copy; 2023 P M ABRAR ISHRAQ TOHA. All rights reserved.2025</p>
+    <p>&copy; 2025 P M ABRAR ISHRAQ TOHA. All rights reserved.</p>
 </footer>
 
 </body>
